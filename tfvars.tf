@@ -1,0 +1,2 @@
+project = "creatingsubnet"
+location = "eastus"
